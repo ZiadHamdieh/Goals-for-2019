@@ -6,8 +6,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 
 ### For The Mind & The Craft...
 
-
-[//]: <> (https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586)
+[//]: # (https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586)
 - [ ] Read <b><i>Refactoring</i></b> by Martin Fowler <img align="right" src="http://progressed.io/bar/0">
 - [ ] Read <b><i>The Effective Engineer</i></b> by Edmond Lau <img align="right" src="http://progressed.io/bar/0">
 - [ ] Read <b><i>The Pragmatic Programmer</i></b> by Andrew Hunt & David Thomas<img align="right" src="http://progressed.io/bar/0">
