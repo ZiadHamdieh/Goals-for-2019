@@ -13,7 +13,7 @@ I am keeping this public so that if my discipline fails, social pressure will ke
 
 ### For The Body...
 
-- [ ] Blue belt in Brazilian Jiu-Jitsu <img align="right" src="http://progressed.io/bar/82" >
+- [ ] Blue belt in Brazilian Jiu-Jitsu <img align="right" src="http://progressed.io/bar/0" >
 
 
 ### For The Spirit...
